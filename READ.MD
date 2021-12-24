@@ -1,4 +1,4 @@
-Toom-Cook multiplication where number is split in polynom of degree three.
+Toom-Cook multiplication where number is split in polynom of degree three made in programming language C.
 
 Number is saved in format:
 - 453 0098 4567 1092 3475 in BASE = 10000:
